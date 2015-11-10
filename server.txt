@@ -3,3 +3,7 @@ gupdate
 gupdatem
 #迅雷
 XLServicePlatform
+#搜狗
+SogouUpdate
+#福昕阅读器的服务项，一个阅读器还要什么服务……
+FxService
