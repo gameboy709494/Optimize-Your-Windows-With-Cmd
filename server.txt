@@ -1,4 +1,5 @@
 #谷歌更新服务，在无法翻墙的中国大陆下该服务完全没有意义！
 gupdate
 gupdatem
-#
+#迅雷
+XLServicePlatform
